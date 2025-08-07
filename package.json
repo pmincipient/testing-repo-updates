@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pmincipient/testing-repo-updates/issues"
   },
-  "homepage": "https://github.com/pmincipient/testing-repo-updates#readme"
+  "homepage": "https://github.com/pmincipient/testing-repo-updates#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
